@@ -19,4 +19,59 @@ Yalnızca aşağıdaki teknik bilgiler otomatik olarak toplanabilir ⬇️
 
 Veri Türü	Amaç	Kim işler?
 Cihaz modeli, uygulama sürümü, çökme günlükleri	Performans ve hata analizi	Google Play Hizmetleri
-Reklam tanımlayıcısı (Android Advertising ID)	Kişiselleştirilmemiş reklam gösterimi	Google AdMob
+Reklam tanımlayıcısı (Android Advertising ID)	Kişiselleştirilmemiş reklam gösterimi	Google Admob
+
+Bu veriler anonimdir ve kimliği belirlemez.
+
+2. Cihaz Erişim İzinleri
+İzin	Amaç	Kullanıcı Onayı
+Medya/Kütüphane okuma izni	Telefonda bulunan müzik dosyalarını görüntülemek ve çalmak	Gerekli
+İnternet & Ağ durumu	Reklam gösterimi	Gerekli
+
+Uygulama asla:
+
+Konum bilgisi toplamaz
+Rehbere, kamera veya mikrofon verilerine erişmez
+Kullanıcının medya içeriklerini paylaşmaz, göndermez
+
+3. Üçüncü Taraf Hizmetleri
+
+Uygulama aşağıdaki hizmetleri kullanır:
+Google AdMob (Reklam gösterimi için)
+Google Play Hizmetleri (Analitik ve çökme raporları)
+Bu hizmetlerin gizlilik politikalarını inceleyebilirsiniz:
+Google: https://policies.google.com/privacy
+
+4. Veri Paylaşımı
+
+Kullanıcı verileri hiçbir şirketle satılmaz / kiralanmaz.
+Sadece yasal zorunluluk olduğunda yetkili makamlara iletilebilir.
+
+5. Güvenlik
+
+Uygulama sunucu tabanlı bir veri saklama sistemi kullanmaz.
+Bu nedenle kişisel veri riski minimumdur.
+Üçüncü taraf SDK’lar gerekli güvenlik önlemlerini uygular.
+
+6. Çocukların Gizliliği
+
+Uygulama 13 yaş altı için tasarlanmamıştır ve bu yaş grubundan bilerek veri toplamaz.
+
+7. Kullanıcı Hakları
+
+Her kullanıcı:
+
+İzinleri cihaz ayarlarından istediği zaman kapatabilir
+Uygulamayı dilediği zaman silebilir
+Bu işlemlerle veri toplama tamamen durur.
+
+8. Gizlilik Politikasında Değişiklikler
+
+Güncellemeler bu sayfa üzerinden duyurulur.
+Kullanıma devam edilmesi, değişikliklerin kabul edildiği anlamına gelir.
+
+9. İletişim
+
+Herhangi bir soru için bizimle iletişime geçebilirsiniz:
+📧 nurkanoz@gmail.com
+Geliştirici: nurkan ozturk
